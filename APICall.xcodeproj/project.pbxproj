@@ -21,6 +21,7 @@
 		B2187D2222D6BAC30026DDA8 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DetailViewController.swift; path = ../DetailViewController.swift; sourceTree = "<group>"; };
 		B238514D23045E1A004E67D8 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		B255776B22D5A01400693BCB /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		B25CBA0C23A6C3C6007B676D /* APICall copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "APICall copy-Info.plist"; path = "/Users/alvintuo/Desktop/<:dev>/iOSSwiftCTD/APICall/APICall copy-Info.plist"; sourceTree = "<absolute>"; };
 		B2E7E03022D4E51A004A7B3D /* APICall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = APICall.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2E7E03322D4E51A004A7B3D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B2E7E03522D4E51A004A7B3D /* FXViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FXViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +57,7 @@
 				B2E7E03222D4E51A004A7B3D /* APICall */,
 				B2E7E03122D4E51A004A7B3D /* Products */,
 				B238514C23045E1A004E67D8 /* Frameworks */,
+				B25CBA0C23A6C3C6007B676D /* APICall copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
